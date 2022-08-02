@@ -22,3 +22,7 @@ The following assumes the use of `node@>=10`.
 ## Run Tests
 
 `yarn test`
+
+## Extra Notes
+
+I'm following [this page](https://medium.com/@maxime.atton/fork-uniswap-v2-smart-contracts-ui-on-remix-e885d6cea176) to create my own Uniswap:
